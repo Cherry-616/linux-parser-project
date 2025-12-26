@@ -7,3 +7,4 @@ int parse_string_length(const char *str) {
     }
     return strlen(str);
 }
+#include <string.h>
